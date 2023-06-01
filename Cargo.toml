@@ -1,0 +1,10 @@
+[package]
+name = "simple-multithreaded-webserver"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.26"
+flate2 = "1.0.26"
+httparse = "1.8.0"
+httpdate = "1.0.2"
